@@ -1,3 +1,5 @@
 *.docx
 *.pdf
 proposal/
+.ipynb_checkpoints/
+.virtual_documents/
